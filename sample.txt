@@ -1,1 +1,1 @@
-Trying to check whether the workflow is getting triggered .This is to add a sample file to check the ongoing process for a new build
+adding for a branch2 .Trying to check whether the workflow is getting triggered .This is to add a sample file to check the ongoing process for a new build
